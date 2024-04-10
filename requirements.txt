@@ -1,0 +1,5 @@
+asgiref==3.8.1
+django==5.0.4
+pillow==10.3.0
+sqlparse==0.4.4
+typing-extensions==4.11.0
